@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,SQL**
 
-- 👨‍💻 All of my projects are available at [Circular car parking and Water level detector](Circular car parking and Water level detector)
+- 👨‍💻 All of my projects are available at [Circular car parking and Water level detector].
 
 - 📫 How to reach me **vinoth.vijay.rm@gmail.com**
 
