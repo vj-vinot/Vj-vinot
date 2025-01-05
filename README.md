@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinoth Kumar</h1>
 <h3 align="center">I Am Electrical Student</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vj-vinot" alt="vj-vinot" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vinot_" target="blank"><img src="https://img.shields.io/twitter/follow/vinot_?logo=twitter&style=for-the-badge" alt="vinot_" /></a> </p>
 
 - 🌱 I’m currently learning **Java,SQL**
